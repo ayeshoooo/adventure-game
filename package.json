@@ -1,0 +1,19 @@
+{
+  "name": "my-adventure-game2",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": "./app.js",
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "inquirer": "^9.1.4",
+    "my-adventure-game2": "^1.1.1",
+    "nanospinner": "^1.1.0"
+  }
+}
